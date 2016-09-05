@@ -1,0 +1,20 @@
+{
+  "name": "oj-site",
+  "version": "1.0.0",
+  "description": "oj",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "oj"
+  ],
+  "author": "Rainboy",
+  "license": "ISC"
+}
